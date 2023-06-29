@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Linux Engineer and a Web developer from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnu2707&label=Profile%20views&color=0e75b6&style=flat" alt="vishnu2707" /> </p>
-
 <p align="left"> <a href="https://twitter.com/vishnua74532070" target="blank"><img src="https://img.shields.io/twitter/follow/vishnua74532070?logo=twitter&style=for-the-badge" alt="vishnua74532070" /></a> </p>
 
 - 🌱 I’m currently learning **Docker, GCP, Kubernetes and Terraform**
