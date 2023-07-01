@@ -1,6 +1,23 @@
-<a href="https://ajithv-portfolio.web.app/" style="display: block; width: 100%;">
-  <img src="https://i.redd.it/y0yb82fe1gv11.gif" alt="Banner" style="width: 100%; height: auto;" />
-</a>
+<style>
+  .banner-container {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .banner-image {
+    width: 100%;
+    max-width: 100vw;
+    height: auto;
+  }
+</style>
+
+<div class="banner-container">
+  <a href="https://ajithv-portfolio.web.app/">
+    <img src="https://i.redd.it/y0yb82fe1gv11.gif" alt="Banner" class="banner-image" />
+  </a>
+</div>
+
 
 <h1 align="center">Hey There 👋, I'm Vishnu Ajith</h1>
 <h3 align="center">A passionate Linux Engineer and a Web developer from India!</h3>
