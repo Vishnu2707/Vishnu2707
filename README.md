@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://ajithv-portfolio.web.app/">
-    <img src="![banner]([https://github.com/Vishnu2707/Vishnu2707/assets/86302373/63376d38-3f10-4f4e-b3d5-41751cd55197](https://www.linkedin.com/in/vishnu-ajith-6206b91b1/overlay/background-image/)" alt="Banner" width="100%">
-  </a>
-</p>
+[![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ajithv-portfolio.web.app/)
 <h1 align="center">Hey There 👋, I'm Vishnu Ajith</h1>
 <h3 align="center">A passionate Linux Engineer and a Web developer from India!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
