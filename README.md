@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ajithv-portfolio.web.app/">
-    <img src="![banner](https://github.com/Vishnu2707/Vishnu2707/assets/86302373/63376d38-3f10-4f4e-b3d5-41751cd55197)" alt="Banner" width="100%">
+    <img src="![banner]([https://github.com/Vishnu2707/Vishnu2707/assets/86302373/63376d38-3f10-4f4e-b3d5-41751cd55197](https://www.linkedin.com/in/vishnu-ajith-6206b91b1/overlay/background-image/)" alt="Banner" width="100%">
   </a>
 </p>
 <h1 align="center">Hey There 👋, I'm Vishnu Ajith</h1>
