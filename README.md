@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://ajithv-portfolio.web.app/">
-    <img src="https://i.redd.it/y0yb82fe1gv11.gif" alt="Banner" width="50%" height="400">
+    <img src="https://i.redd.it/y0yb82fe1gv11.gif" alt="Banner" width="50%" height="200">
   </a>
 </p>
 <h1 align="center">Hey There 👋, I'm Vishnu Ajith</h1>
