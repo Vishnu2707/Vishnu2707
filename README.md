@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/vishnua74532070" target="blank"><img src="https://img.shields.io/twitter/follow/vishnua74532070?logo=twitter&style=for-the-badge" alt="vishnua74532070" /></a> </p>
 
-- 🌱 I’m currently learning **Docker, GCP, Kubernetes and Terraform**
+- 🌱 I’m currently diving deep into **Docker, Terraform, Kubernetes and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishnu2707?tab=repositories](https://github.com/Vishnu2707?tab=repositories)
 
-- 💬 Ask me about **Azure, AWS ,Linux, Python, Django and Java**
+- 💬 Ask me about **Azure, AWS ,Linux (Servers), Python, Django and Java**
 
 - 📫 How to reach me **27vishnu07@gmail.com**
 
