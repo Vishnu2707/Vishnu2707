@@ -1,17 +1,17 @@
 [![Banner](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)](https://ajithv-portfolio.web.app/)
 <h1 align="center">Hey There 👋, I'm Vishnu Ajith</h1>
-<h3 align="center">A passionate Linux Engineer and a Web developer from India!</h3>
+<h3 align="center">AWS | Linux | Automation Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 <p align="left"> <a href="https://twitter.com/vishnua74532070" target="blank"><img src="https://img.shields.io/twitter/follow/vishnua74532070?logo=twitter&style=for-the-badge" alt="vishnua74532070" /></a> </p>
 
-- 🌱 I’m currently diving deep into **Docker, Terraform, Kubernetes and Cloud**
+- 🌱 I’m currently diving deep into **Cloud, Automation, Micro-services and DevOps environments**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vishnu2707?tab=repositories](https://github.com/Vishnu2707?tab=repositories)
 
-- 💬 Ask me about **Azure, AWS ,Linux (Servers), Python, Django and Java**
+- 💬 Ask me about **AWS ,Linux Automation and Infra Architecture**
 
-- 📫 How to reach me **27vishnu07@gmail.com**
+- 📫 How to reach me **vishuk27@gmail.com**
 
 - 📄 Know about my experiences [https://ajithv-portfolio.web.app/](https://ajithv-portfolio.web.app/)
 
